@@ -444,6 +444,12 @@ export const themes = {
     border_color: "e1bc29",
     bg_color: "2b2d40",
   },
+  nightpurple: {
+    title_color: "9745f5",
+    icon_color: "ffeb95",
+    text_color: "92D534",
+    bg_color: "011627",
+  },
 };
 
 export default themes;
